@@ -6,9 +6,10 @@ class Main{
         int hungry=sc.nextInt();
 
         if(hungry==1){
-            System.out.println("Eat smtg");
+            System.out.println("Eat smtg nice");
         }else{
             System.out.println("Dont eat");
         }
+
 }
 }
